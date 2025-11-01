@@ -21,7 +21,7 @@
 - 📈 **Маркетинг, продвижение и управление проектами**
 
 
-![preview_en](https://github.com/user-attachments/assets/b8231b9a-d575-4a75-84cc-9b0945178c68)
+<img width="2500" height="2362" alt="preview_en" src="https://github.com/user-attachments/assets/9e6d6900-1bf0-41fa-8e20-7eb238789ca9" />
 
 ### Our services:
 
