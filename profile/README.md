@@ -1,3 +1,4 @@
+<img width="2500" height="2362" alt="preview_ru" src="https://github.com/user-attachments/assets/eac0d786-5b7f-465a-80ee-13725784e36d" />
 
 ### Наши услуги:
 
@@ -20,6 +21,7 @@
 - 📈 **Маркетинг, продвижение и управление проектами**
 
 
+![preview_en](https://github.com/user-attachments/assets/b8231b9a-d575-4a75-84cc-9b0945178c68)
 
 ### Our services:
 
